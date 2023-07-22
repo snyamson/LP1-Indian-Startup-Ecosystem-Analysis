@@ -48,6 +48,7 @@ Below is the Data Dictionary
 
 
 ## App Execution
+
 The project is available in two formats: a published report and a deployed Power BI Dashboard.
 
 To access the Report, use the following link: [Report URL]()
@@ -55,6 +56,7 @@ To access the Report, use the following link: [Report URL]()
 For the Deployed Dashboard, use the following link: [Power BI Dashboard]()
 
 ## Author
+
 Dorcas Noosim Wangui (Team Lead)
 
 Solomon Nyamson
