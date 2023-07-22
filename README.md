@@ -6,7 +6,7 @@ This data analysis task aims to provide a comprehensive overview of the Indian s
 
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP 1      | Indian Startup Ecosystem Data Analysis |  [Best article of the world](/) | [Best app of the world](/) |
+| LP 1      | Indian Startup Ecosystem Data Analysis |  [Best article of the world](/) | [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjI3M2Y3ZDAtZmEwOC00MzJjLThiZDEtYTU2NzcyNTJkZTgxIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |
 
 ## Project Description
 
@@ -29,7 +29,22 @@ Below is the Data Dictionary
 
 
 ## Setup
-...
+
+1. Install all the necessary libraries like `pandas, numpy, matplotlib, plotly`
+
+2.Install pyodbc - a package for creating connection strings to your remote database
+
+ 3.Install python-dotenv - a package for creating environment variables that will help you hide sensitve configuration informantion such as database credentials and API keys
+
+ 4.Import all the necessary libraies
+ 
+    a.pyodbc (for creating a connection)
+
+    b.python-dotenv (loading environment variables)
+
+5.Now create a file called .env in the root of your project folder (Note, the file name begins with a dot)
+
+6.In the .env file, put all your sensitive information like server name, database name, username, and password
 
 ## App Execution
 ...
