@@ -53,7 +53,7 @@ The project is available in two formats: a published report and a deployed Power
 
 To access the Report, use the following link: [Report URL]()
 
-For the Deployed Dashboard, use the following link: [Power BI Dashboard]()
+For the Deployed Dashboard, use the following link: [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjI3M2Y3ZDAtZmEwOC00MzJjLThiZDEtYTU2NzcyNTJkZTgxIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9)
 
 ## Author
 
