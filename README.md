@@ -46,9 +46,19 @@ Below is the Data Dictionary
 
 6.In the .env file, put all your sensitive information like server name, database name, username, and password
 
+
 ## App Execution
-...
+The project is available in two formats: a published report and a deployed Power BI Dashboard.
+
+To access the Report, use the following link: [Report URL]()
+
+For the Deployed Dashboard, use the following link: [Power BI Dashboard]()
 
 ## Author
-...
+Dorcas Noosim Wangui (Team Lead)
+Solomon Nyamson
+Nobel Uhagaze
+Samuel Etornam Yaw Akortia
+Susan Sagina Adongo
+
 
