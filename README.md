@@ -6,7 +6,7 @@ This data analysis task aims to provide a comprehensive overview of the Indian s
 
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP 1      | Indian Startup Ecosystem Data Analysis |  [Best article of the world](/) | [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjI3M2Y3ZDAtZmEwOC00MzJjLThiZDEtYTU2NzcyNTJkZTgxIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |
+| LP 1      | Indian Startup Ecosystem Data Analysis |  [Published Article](https://www.linkedin.com/pulse/india-startup-ecosystem-data-analysts-view-solomon-nyamson ) | [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjI3M2Y3ZDAtZmEwOC00MzJjLThiZDEtYTU2NzcyNTJkZTgxIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |
 
 ## Project Description
 
@@ -51,7 +51,7 @@ Below is the Data Dictionary
 
 The project is available in two formats: a published report and a deployed Power BI Dashboard.
 
-To access the Report, use the following link: [Report URL]()
+To access the Report, use the following link: [Report URL](https://www.linkedin.com/pulse/india-startup-ecosystem-data-analysts-view-solomon-nyamson )
 
 For the Deployed Dashboard, use the following link: [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjI3M2Y3ZDAtZmEwOC00MzJjLThiZDEtYTU2NzcyNTJkZTgxIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9)
 
