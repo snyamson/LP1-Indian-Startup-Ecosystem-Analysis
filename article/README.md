@@ -102,10 +102,15 @@ A high-level function was written to facilitate these groupings, and the results
 From statistics done, the numbers indicate the distribution of companies across different stages of funding:
 
 •	Early Traction: 1398 companies are in this stage.
+
 •	Validation: 689 companies are in this stage.
+
 •	Scaling: 347 companies are in this stage.
+
 •	Ideation: 76 companies are in this stage.
+
 •	Other: 76 companies are in this stage.
+
 •	Exit Option: 8 companies are in this stage.
 
 # Hypothesis Testing
