@@ -57,14 +57,6 @@ For the Deployed Dashboard, use the following link: [Power BI Dashboard](https:/
 
 ## Author
 
-Dorcas Noosim Wangui (Team Lead)
-
 Solomon Nyamson
-
-Nobel Uhagaze
-
-Samuel Etornam Yaw Akortia
-
-Susan Sagina Adongo
 
 
